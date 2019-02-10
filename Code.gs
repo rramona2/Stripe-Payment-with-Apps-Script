@@ -5,7 +5,7 @@ function doGet() {//doGet is a reserved function name that runs from a GET reque
 };
 
 // GLOBAL VARIABLES - Global variable in all Caps for clear identifiation of a global
-var STRIPE_SECRET = 'sk_test_etc';   // *** DEV Stripe Secret ***
+var STRIPE_SECRET = 'sk_test_Ij0J6qXGOSt9v2rn3UF081An';   // *** DEV Stripe Secret ***
 //var STRIPE_SECRET = 'sk_live_etc';   // *** LIVE Stripe Secret ***
 
 //Test with the test secret key
